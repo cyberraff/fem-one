@@ -30,8 +30,8 @@ Building A Responsive Landing Page Using CSS FlexBox.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/cyberraff/fem-one)
-- Live Site URL: [Add live site URL here](https://fem-one.vercel.app/)
+- Solution URL: [Solution URL](https://github.com/cyberraff/fem-one)
+- Live Site URL: [Live site URL](https://fem-one.vercel.app/)
 
 ## My process
 
@@ -50,8 +50,6 @@ How to use FlexBox.
 
 Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
 ### Useful resources
 
 - [W3 school](https://www.w3schools.com/) - This helped me really understand FlexBox
@@ -68,5 +66,3 @@ Use this section to outline areas that you want to continue focusing on in futur
 ## Acknowledgments
 
 I am grateful to God to be opportune to do this.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
